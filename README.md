@@ -1,4 +1,3 @@
-# DSA-applications-in-Java
-Fundamentals of Java and their application to solve competitive programming questions
+# Searching-Algorithms
 
-Refer to branches to undertand the concepts studied and learnt in Java Programming Language to solve problems and build applications.
+1. Used Binary Search to look for target elementss in sorted Integer array.
