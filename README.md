@@ -1,3 +1,3 @@
 # Searching-Algorithms
 
-1. Used Binary Search to look for target elementss in sorted Integer array.
+1. Used Binary Search to return index of target element in sorted Integer array.
