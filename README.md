@@ -1,4 +1,3 @@
-<<<<<<< Arrays-Concepts-and-Problems
 # Arrays in Java
 
 Branch description:
