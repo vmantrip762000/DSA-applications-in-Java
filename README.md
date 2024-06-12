@@ -1,4 +1,4 @@
-## Java for DSA and competitive programming
+# Java for DSA and competitive programming
 
 ## Datatypes in Java
 
