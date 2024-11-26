@@ -1,6 +1,6 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class BinSort {
+public class BinSearch {
 
     public static int orderAgnosticBS(int[] myarr, int target){
 
